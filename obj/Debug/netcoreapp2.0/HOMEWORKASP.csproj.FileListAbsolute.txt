@@ -1,0 +1,10 @@
+C:\Users\2011p\OneDrive\Escritorio\projecto.net\HOMEWORKASP\bin\Debug\netcoreapp2.0\HOMEWORKASP.deps.json
+C:\Users\2011p\OneDrive\Escritorio\projecto.net\HOMEWORKASP\bin\Debug\netcoreapp2.0\HOMEWORKASP.runtimeconfig.json
+C:\Users\2011p\OneDrive\Escritorio\projecto.net\HOMEWORKASP\bin\Debug\netcoreapp2.0\HOMEWORKASP.runtimeconfig.dev.json
+C:\Users\2011p\OneDrive\Escritorio\projecto.net\HOMEWORKASP\bin\Debug\netcoreapp2.0\HOMEWORKASP.dll
+C:\Users\2011p\OneDrive\Escritorio\projecto.net\HOMEWORKASP\bin\Debug\netcoreapp2.0\HOMEWORKASP.pdb
+C:\Users\2011p\OneDrive\Escritorio\projecto.net\HOMEWORKASP\obj\Debug\netcoreapp2.0\HOMEWORKASP.csproj.CoreCompileInputs.cache
+C:\Users\2011p\OneDrive\Escritorio\projecto.net\HOMEWORKASP\obj\Debug\netcoreapp2.0\HOMEWORKASP.AssemblyInfoInputs.cache
+C:\Users\2011p\OneDrive\Escritorio\projecto.net\HOMEWORKASP\obj\Debug\netcoreapp2.0\HOMEWORKASP.AssemblyInfo.cs
+C:\Users\2011p\OneDrive\Escritorio\projecto.net\HOMEWORKASP\obj\Debug\netcoreapp2.0\HOMEWORKASP.dll
+C:\Users\2011p\OneDrive\Escritorio\projecto.net\HOMEWORKASP\obj\Debug\netcoreapp2.0\HOMEWORKASP.pdb
